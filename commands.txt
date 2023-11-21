@@ -1,3 +1,5 @@
 ls 
 touch
 mkdir
+sudo 
+rmdir
